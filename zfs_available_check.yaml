@@ -1,0 +1,4 @@
+init_config:
+
+instances:
+  - storage_pool: 'storage_pool'
